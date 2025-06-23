@@ -5,7 +5,7 @@
 I'm a passionate software engineer with **9+ years of experience** building scalable web applications, APIs, and developer tooling — from CI/CD deployment pipelines to AWS infrastructure.
 
 - 💻 Languages: JavaScript, TypeScript, Php
-- 🧩 Frameworks/Libraries: React, ReactNative, Node.js, Express, Next.js, Laravel
+- 🧩 Frameworks/Libraries: React, ReactNative, Node.js, Express, Next.js, NestJS, Laravel
 - 🛠️ Tools: Git, Jenkins, CircleCI, Docker, Jest, Postman, Nginx
-- 🗃️ Databases: PostgreSQL, MongoDB
-- ☁️ Cloud: Google Cloud, Firebase, AWS (EC2, S3)
+- 🗃️ Databases: PostgreSQL, MongoDB, SQL
+- ☁️ Cloud: Google Cloud, Firebase, AWS (EC2, S3), Netlify, Vercel, etc.
