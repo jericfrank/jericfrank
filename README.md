@@ -1,11 +1,11 @@
 # 👨‍💻 Hi, I'm Jerec Frank
 
-🎯 **Software Engineer | Fullstack JS Developer**
+🎯 **Software Engineer**
 
-I'm a passionate software engineer with **9+ years of experience** building scalable web applications, APIs, and developer tooling — from CI/CD deployment pipelines to AWS infrastructure.
+Passionate software engineer with **10 years of experience** building scalable applications, backend services, and developer tooling, with expertise spanning CI/CD pipelines and cloud infrastructure.
 
 - 💻 Languages: JavaScript, TypeScript, Php
 - 🧩 Frameworks/Libraries: React, ReactNative, Node.js, Express, Next.js, NestJS, Laravel
-- 🛠️ Tools: Git, Jenkins, CircleCI, Docker, Jest, Postman, Nginx
+- 🛠️ Tools/DevOps: Git, Jenkins, CircleCI, Docker, Jest, Postman, Nginx
 - 🗃️ Databases: PostgreSQL, MongoDB, SQL
-- ☁️ Cloud: Google Cloud, Firebase, AWS (EC2, S3), Netlify, Vercel, etc.
+- ☁️ Cloud: Google Cloud, Firebase, AWS, Netlify, Vercel
